@@ -1,5 +1,5 @@
-# Radxa ROCK3 Compute Module with Raspberry Pi Compute Module 4 IO Board
-[![Build](https://github.com/radxa-build/radxa-cm3-rpi-cm4-io/workflows/Build/badge.svg)](https://github.com/radxa-build/radxa-cm3-rpi-cm4-io/actions/workflows/build.yml)
+# Radxa ROCK 3 Compute Module with Raspberry Pi Compute Module 4 IO Board
+[![Build image for Release channel](https://github.com/radxa-build/radxa-cm3-rpi-cm4-io/actions/workflows/build.yml/badge.svg)](https://github.com/radxa-build/radxa-cm3-rpi-cm4-io/actions/workflows/build.yml)[![Build image for Test channel](https://github.com/radxa-build/radxa-cm3-rpi-cm4-io/actions/workflows/test.yml/badge.svg)](https://github.com/radxa-build/radxa-cm3-rpi-cm4-io/actions/workflows/test.yml)
 
 ## What is this?
 
