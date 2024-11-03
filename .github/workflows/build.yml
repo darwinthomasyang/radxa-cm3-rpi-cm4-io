@@ -27,8 +27,8 @@ jobs:
       matrix:
         boards: [radxa-cm3-rpi-cm4-io]
         build_systems: [rbuild]
-        distros: [debian, ubuntu]
-        flavors: [kde, xfce, cli]
+        distros: [debian]
+        flavors: [cli]
         exclude:
           - build_systems: debos
             distros: debian
